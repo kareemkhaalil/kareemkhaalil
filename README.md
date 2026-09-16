@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Kareem Khalil  
-- 👀 I’m interested in Android Development Especially cross platform technologies like 💙 Flutter 💙
-- 🌱 I’m currently learning actuly 😜 Flutter 😜 
-- 📫 You can reach me  by  Email me on karem2003.kk@gmail.com , 
+# Hi, I'm Kareem Khalil 👋
+### Full-Stack & Mobile Software Engineer | Technical Founder
 
-<!---
-kareemkhaalil/kareemkhaalil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Software Engineer specializing in building scalable web applications, cross-platform mobile solutions, and enterprise ERP systems. Passionate about offline-first architectures, state management, and high-performance applications.
+
+- 🛠️ **Primary Stack:** React, Next.js, Node.js, TypeScript, Flutter, Supabase, PostgreSQL.
+- 🚀 **Featured Projects:**
+  - **Manzoma ERP:** Enterprise-grade ERP & POS system featuring complex offline-first database synchronization (SQLite & PostgreSQL).
+  - **CodeKick Academy:** Scalable LMS platform built with Next.js, Supabase, and real-time WebRTC.
+- 📬 **Contact:** karem2003.kk@gmail.com | [LinkedIn](https://www.linkedin.com/in/kareemahmedkhalil/)
